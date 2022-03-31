@@ -577,12 +577,13 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Press Space to start the car
 
-    Left mouse to place one crate
+    Q to place one crate, Press 1 for its
+    ghost
 
-    Right
-    mouse to place a road
+    W to place a road, Press 2 for its ghost
 
-    Middle mouse or Q to place a stack of crates'
+    E to place a stack of
+    crates, Press 3 for its ghost'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
